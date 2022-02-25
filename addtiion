@@ -1,0 +1,17 @@
+/*addition of five integers*/
+#include<stdio.h>
+int main()
+{ 
+    int a,b,c,d,e,sum=0;
+    //sum=10+29;//sum
+    //printf("enter a,b,c,d,e values");
+    scanf("%d %d %d %d %d",&a,&b,&c,&d,&e);//input
+    sum=a+b+c+d+e;
+    printf("%d ",sum);//std::cout <<  << std::endl;
+return 0;
+}
+
+//decltype//
+//input
+//operation/logic
+//output
