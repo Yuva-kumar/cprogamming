@@ -1,0 +1,28 @@
+/*arithematic operators*/
+#include<stdio.h>
+int main()
+{ 
+    int a,b,add,sub,mlt,rem;
+    float div;
+    a=5;
+    b=5;
+    add=a+b;
+    sub=a-b;
+    mlt=a*b;
+    rem=a%b;
+    div=a/b;
+   printf("%d",add);
+   printf("%d",sub);
+   printf("%d",mlt);
+   printf("%d",rem);
+   printf("%f",div);
+}
+    
+    
+    
+    
+    
+    
+    
+    
+    
